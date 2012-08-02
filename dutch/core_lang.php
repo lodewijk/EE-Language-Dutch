@@ -2,481 +2,481 @@
 $lang = array(
 
 
-'no' => 
+'no' =>
 'Nee',
 
-'yes' => 
+'yes' =>
 'Ja',
 
-'on' => 
+'on' =>
 'aan',
 
-'off' => 
+'off' =>
 'uit',
 
-'first' => 
+'first' =>
 'Eerste',
 
-'last' => 
+'last' =>
 'Laatste',
 
-'enabled' => 
+'enabled' =>
 'ingeschakeld',
 
-'disabled' => 
+'disabled' =>
 'uitgeschakeld',
 
-'back' => 
+'back' =>
 'Terug',
 
-'submit' => 
+'submit' =>
 'Opslaan',
 
-'update' => 
+'update' =>
 'Wijzigen',
 
-'thank_you' => 
+'thank_you' =>
 'Bedankt!',
 
-'page' => 
+'page' =>
 'Pagina',
 
-'of' => 
+'of' =>
 'van de',
 
-'by' => 
+'by' =>
 'door',
 
-'at' => 
+'at' =>
 'op',
 
-'dot' => 
+'dot' =>
 'punt',
 
-'or' => 
+'or' =>
 'of',
 
-'id' => 
+'id' =>
 'ID',
 
-'encoded_email' => 
+'encoded_email' =>
 '(JavaScript moet ingeschakeld zijn om dit e-mail adres te bekijken)',
 
-'search' => 
+'search' =>
 'Zoeken',
 
-'system_off_msg' => 
+'system_off_msg' =>
 'Deze site is op dit moment niet actief',
 
-'not_authorized' => 
+'not_authorized' =>
 'U heeft geen toestemming om dit uit te voeren',
 
-'auto_redirection' => 
+'auto_redirection' =>
 'U wordt automatisch teruggeleid binnen %x seconden',
 
-'click_if_no_redirect' => 
+'click_if_no_redirect' =>
 'Klik hier als u niet automatisch doorgestuurd wordt',
 
-'return_to_previous' => 
+'return_to_previous' =>
 'Terug naar de vorige pagina',
 
-'not_available' => 
+'not_available' =>
 'Niet beschikbaar',
 
-'setting' => 
+'setting' =>
 'Instelling',
 
-'preference' => 
+'preference' =>
 'Voorkeur',
 
-'pag_first_link' => 
+'pag_first_link' =>
 '&lang; Eerste',
 
-'pag_last_link' => 
+'pag_last_link' =>
 'Laatste &rang;',
 
-'error' => 
+'error' =>
 'Fout',
 
-'invalid_url' => 
+'invalid_url' =>
 'De de door u ingevoerde URL bestaat niet',
 
-'submission_error' => 
+'submission_error' =>
 'Het formulier dat u verstuurde bevat de volgende fouten:',
 
-'general_error' => 
+'general_error' =>
 'De volgende fouten zijn geconstateerd:',
 
-'invalid_action' => 
+'invalid_action' =>
 'De taak die u wilde uitvoeren is ongeldig.',
 
-'captcha_required' => 
+'captcha_required' =>
 'U moet het woord dat in de afbeelding staat invoeren',
 
-'captcha_incorrect' => 
+'captcha_incorrect' =>
 'U heeft niet het juiste woord dat in de afbeelding staat ingevoerd',
 
-'nonexistent_page' => 
+'nonexistent_page' =>
 'De opgevraagde pagina is niet gevonden',
 
-'unable_to_load_field_type' => 
+'unable_to_load_field_type' =>
 'Niet mogelijk het gevraagde veld type bestand te laden: %s. Zorg er voor dat het veldtype bestand is geplaatst in de expressionengine/third_party/ map',
 
-'banned' => 
+'banned' =>
 'Gebanned',
 
-'guests' => 
+'guests' =>
 'Gasten',
 
-'members' => 
+'members' =>
 'Leden',
 
-'pending' => 
+'pending' =>
 'In Afwachting',
 
-'super_admins' => 
+'super_admins' =>
 'Super Admins',
 
-'error_tag_syntax' => 
+'error_tag_syntax' =>
 'De volgende tag heeft een syntaxfout:',
 
-'error_fix_syntax' => 
+'error_fix_syntax' =>
 'Corrigeer a.u.b. de syntax in uw template.',
 
-'error_tag_module_processing' => 
+'error_tag_module_processing' =>
 'De volgende tag kan niet uitgevoerd worden:',
 
-'error_fix_module_processing' => 
+'error_fix_module_processing' =>
 'Controleer of de &#39;%x&#39; module ge&#239nstalleerd is en dat &#39;%y&#39; een beschikbare methode van de module is',
 
-'template_loop' => 
+'template_loop' =>
 'Er is een loop ontstaan in uw template door verkeerd genestte sub-templates (&#39;%s&#39; recursief opgeroepen)',
 
-'forgotten_email_sent' => 
+'forgotten_email_sent' =>
 'Instructies om uw wachtwoord te veranderen zijn naar u gemaild.',
 
-'error_sending_email' => 
+'error_sending_email' =>
 'Niet mogelijk om een e-mail te versturen op dit moment.',
 
-'no_email_found' => 
+'no_email_found' =>
 'Het door u ingevoerde e-mailadres is niet gevonden in onze database.',
 
-'your_new_login_info' => 
+'your_new_login_info' =>
 'Inlog informatie',
 
-'password_has_been_reset' => 
+'password_has_been_reset' =>
 'Uw wachtwoord is veranderd en een nieuw is naar u gemaild.',
 
-'year' => 
+'year' =>
 'jaar',
 
-'years' => 
+'years' =>
 'jaren',
 
-'month' => 
+'month' =>
 'maand',
 
-'months' => 
+'months' =>
 'maanden',
 
-'week' => 
+'week' =>
 'week',
 
-'weeks' => 
+'weeks' =>
 'weken',
 
-'day' => 
+'day' =>
 'dag',
 
-'days' => 
+'days' =>
 'dagen',
 
-'hour' => 
+'hour' =>
 'uur',
 
-'hours' => 
+'hours' =>
 'uren',
 
-'minute' => 
+'minute' =>
 'minuut',
 
-'minutes' => 
+'minutes' =>
 'minuten',
 
-'second' => 
+'second' =>
 'seconde',
 
-'seconds' => 
+'seconds' =>
 'seconden',
 
-'am' => 
+'am' =>
 'am',
 
-'pm' => 
+'pm' =>
 'pm',
 
-'AM' => 
+'AM' =>
 'AM',
 
-'PM' => 
+'PM' =>
 'PM',
 
-'Sun' => 
+'Sun' =>
 'zon',
 
-'Mon' => 
+'Mon' =>
 'maa',
 
-'Tue' => 
+'Tue' =>
 'din',
 
-'Wed' => 
+'Wed' =>
 'woe',
 
-'Thu' => 
+'Thu' =>
 'don',
 
-'Fri' => 
+'Fri' =>
 'vri',
 
-'Sat' => 
+'Sat' =>
 'zat',
 
-'Su' => 
+'Su' =>
 'z',
 
-'Mo' => 
+'Mo' =>
 'm',
 
-'Tu' => 
+'Tu' =>
 'd',
 
-'We' => 
+'We' =>
 'w',
 
-'Th' => 
+'Th' =>
 'd',
 
-'Fr' => 
+'Fr' =>
 'v',
 
-'Sa' => 
+'Sa' =>
 'z',
 
-'Sunday' => 
+'Sunday' =>
 'zondag',
 
-'Monday' => 
+'Monday' =>
 'maandag',
 
-'Tuesday' => 
+'Tuesday' =>
 'dinsdag',
 
-'Wednesday' => 
+'Wednesday' =>
 'woensdag',
 
-'Thursday' => 
+'Thursday' =>
 'donderdag',
 
-'Friday' => 
+'Friday' =>
 'vrijdag',
 
-'Saturday' => 
-'zaterdan',
+'Saturday' =>
+'zaterdag',
 
-'Jan' => 
+'Jan' =>
 'jan',
 
-'Feb' => 
+'Feb' =>
 'feb',
 
-'Mar' => 
+'Mar' =>
 'mar',
 
-'Apr' => 
+'Apr' =>
 'apr',
 
-'May' => 
+'May' =>
 'mei',
 
-'Jun' => 
+'Jun' =>
 'jun',
 
-'Jul' => 
+'Jul' =>
 'jul',
 
-'Aug' => 
+'Aug' =>
 'aug',
 
-'Sep' => 
+'Sep' =>
 'sep',
 
-'Oct' => 
+'Oct' =>
 'okt',
 
-'Nov' => 
+'Nov' =>
 'nov',
 
-'Dec' => 
+'Dec' =>
 'dec',
 
-'January' => 
+'January' =>
 'januari',
 
-'February' => 
+'February' =>
 'februari',
 
-'March' => 
+'March' =>
 'maart',
 
-'April' => 
+'April' =>
 'april',
 
-'May_l' => 
+'May_l' =>
 'mei',
 
-'June' => 
+'June' =>
 'juni',
 
-'July' => 
+'July' =>
 'juli',
 
-'August' => 
+'August' =>
 'augustus',
 
-'September' => 
+'September' =>
 'september',
 
-'October' => 
+'October' =>
 'oktober',
 
-'November' => 
+'November' =>
 'november',
 
-'December' => 
+'December' =>
 'december',
 
-'UM12' => 
+'UM12' =>
 '(UTC -12:00) Baker/Howland Island',
 
-'UM11' => 
+'UM11' =>
 '(UTC -11:00) Samoa Time Zone, Niue',
 
-'UM10' => 
+'UM10' =>
 '(UTC -10:00) Hawaii-Aleutian Standard Time, Cook Islands, Tahiti',
 
-'UM95' => 
+'UM95' =>
 '(UTC -9:30) Marquesas Islands',
 
-'UM9' => 
+'UM9' =>
 '(UTC -9:00) Alaska Standard Time, Gambier Islands',
 
-'UM8' => 
+'UM8' =>
 '(UTC -8:00) Pacific Standard Time, Clipperton Island',
 
-'UM7' => 
+'UM7' =>
 '(UTC -7:00) Mountain Standard Time',
 
-'UM6' => 
+'UM6' =>
 '(UTC -6:00) Central Standard Time',
 
-'UM5' => 
+'UM5' =>
 '(UTC -5:00) Eastern Standard Time, Western Caribbean Standard Time',
 
-'UM45' => 
+'UM45' =>
 '(UTC -4:30) Venezuelan Standard Time',
 
-'UM4' => 
+'UM4' =>
 '(UTC -4:00) Atlantic Standard Time, Eastern Caribbean Standard Time',
 
-'UM35' => 
+'UM35' =>
 '(UTC -3:30) Newfoundland Standard Time',
 
-'UM3' => 
+'UM3' =>
 '(UTC -3:00) Argentina, Brazil, French Guiana, Uruguay',
 
-'UM2' => 
+'UM2' =>
 '(UTC -2:00) South Georgia/South Sandwich Islands',
 
-'UM1' => 
+'UM1' =>
 '(UTC -1:00) Azores, Cape Verde Islands',
 
-'UTC' => 
+'UTC' =>
 '(UTC) Greenwich Mean Time, Western European Time',
 
-'UP1' => 
+'UP1' =>
 '(UTC +1:00) Central European Time, West Africa Time',
 
-'UP2' => 
+'UP2' =>
 '(UTC +2:00) Central Africa Time, Eastern European Time, Kaliningrad Time',
 
-'UP3' => 
+'UP3' =>
 '(UTC +3:00) Moscow Time, East Africa Time',
 
-'UP35' => 
+'UP35' =>
 '(UTC +3:30) Iran Standard Time',
 
-'UP4' => 
+'UP4' =>
 '(UTC +4:00) Azerbaijan Standard Time, Samara Time',
 
-'UP45' => 
+'UP45' =>
 '(UTC +4:30) Afghanistan',
 
-'UP5' => 
+'UP5' =>
 '(UTC +5:00) Pakistan Standard Time, Yekaterinburg Time',
 
-'UP55' => 
+'UP55' =>
 '(UTC +5:30) Indian Standard Time, Sri Lanka Time',
 
-'UP575' => 
+'UP575' =>
 '(UTC +5:45) Nepal Time',
 
-'UP6' => 
+'UP6' =>
 '(UTC +6:00) Bangladesh Standard Time, Bhutan Time, Omsk Time',
 
-'UP65' => 
+'UP65' =>
 '(UTC +6:30) Cocos Islands, Myanmar',
 
-'UP7' => 
+'UP7' =>
 '(UTC +7:00) Krasnoyarsk Time, Cambodia, Laos, Thailand, Vietnam',
 
-'UP8' => 
+'UP8' =>
 '(UTC +8:00) Australian Western Standard Time, Beijing Time, Irkutsk Time',
 
-'UP875' => 
+'UP875' =>
 '(UTC +8:45) Australian Central Western Standard Time',
 
-'UP9' => 
+'UP9' =>
 '(UTC +9:00) Japan Standard Time, Korea Standard Time, Yakutsk Time',
 
-'UP95' => 
+'UP95' =>
 '(UTC +9:30) Australian Central Standard Time',
 
-'UP10' => 
+'UP10' =>
 '(UTC +10:00) Australian Eastern Standard Time, Vladivostok Time',
 
-'UP105' => 
+'UP105' =>
 '(UTC +10:30) Lord Howe Island',
 
-'UP11' => 
+'UP11' =>
 '(UTC +11:00) Magadan Time, Solomon Islands, Vanuatu',
 
-'UP115' => 
+'UP115' =>
 '(UTC +11:30) Norfolk Island',
 
-'UP12' => 
+'UP12' =>
 '(UTC +12:00) Fiji, Gilbert Islands, Kamchatka Time, New Zealand Standard Time',
 
-'UP1275' => 
+'UP1275' =>
 '(UTC +12:45) Chatham Islands Standard Time',
 
-'UP13' => 
+'UP13' =>
 '(UTC +13:00) Phoenix Islands Time, Tonga',
 
-'UP14' => 
+'UP14' =>
 '(UTC +14:00) Line Islands',
 
-'translate' => 
+'translate' =>
 'Update',
 
 ''=>''
